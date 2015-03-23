@@ -1,0 +1,30 @@
+{
+  "name": "rest-authorize",
+  "version": "1.0.0",
+  "description": "Small authorization module for Express, and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aaronepower/rest-authorize"
+  },
+  "keywords": [
+    "REST",
+    "authorization",
+    "authorize",
+    "Express",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "author": "Aaron Power",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aaronepower/rest-authorize/issues"
+  },
+  "homepage": "https://github.com/Aaronepower/rest-authorize",
+  "dependencies": {
+    "debug": "^2.1.2"
+  }
+}
